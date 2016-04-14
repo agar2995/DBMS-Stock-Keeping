@@ -5,7 +5,6 @@ $(document).ready(function () {
     $('.user').on('click', function(){
         $('.div4').toggle(1000);
         $('.div6').hide(1000);
-        $('.div5').addClass('anim');
     });
 
     $('.admin').on('click', function(){

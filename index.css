@@ -45,12 +45,13 @@
 }
 
 .btn-primary, .btn-success{
-    width: 15%;
+    width: 200px;;
 }
 
-.anim{
-    -webkit-transform:translateY(20px);
+.user, .admin{
+    white-space: normal;
 }
+
 
 #bg {
   position: fixed;
